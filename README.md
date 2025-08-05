@@ -96,8 +96,3 @@ run_by_gene/
 - **Autor**: Thiago de Jesus Sousa  
 - **Email**: thiagojsousa@gmail.com  
 - **LinkedIn**: [linkedin.com/in/thiago-sousa-12106b79](https://www.linkedin.com/in/thiago-sousa-12106b79)
-
----
-
-### 📜 Licença
-Distribuído sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
